@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-special-acscdf",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Compute the arccosecant (in degrees) of a single-precision floating-point number.",
   "license": "Apache-2.0",
   "author": {
