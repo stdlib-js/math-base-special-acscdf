@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.0.2">
 
-## Unreleased (2024-07-07)
+## 0.0.2 (2024-07-28)
 
 <section class="commits">
 
@@ -44,7 +44,7 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 ### Features
 
--   [`077a5e6`](https://github.com/stdlib-js/stdlib/commit/077a5e68dbabba3a92bf0163de06564759b57257) - add `math/base/special/acscdf` [(##2148)](#2148)
+-   [`077a5e6`](https://github.com/stdlib-js/stdlib/commit/077a5e68dbabba3a92bf0163de06564759b57257) - add `math/base/special/acscdf` [(#2148)](https://github.com/stdlib-js/stdlib/pull/2148)
 
 </section>
 
@@ -56,7 +56,7 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 <details>
 
--   [`077a5e6`](https://github.com/stdlib-js/stdlib/commit/077a5e68dbabba3a92bf0163de06564759b57257) - **feat:** add `math/base/special/acscdf` [(##2148)](#2148) _(by Gunj Joshi)_
+-   [`077a5e6`](https://github.com/stdlib-js/stdlib/commit/077a5e68dbabba3a92bf0163de06564759b57257) - **feat:** add `math/base/special/acscdf` [(#2148)](https://github.com/stdlib-js/stdlib/pull/2148) _(by Gunj Joshi)_
 
 </details>
 
