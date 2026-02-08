@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import acscdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acscdf@esm/index.mjs';
+import acscdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acscdf@v0.0.3-esm/index.mjs';
 ```
 
 #### acscdf( x )
@@ -89,7 +89,7 @@ v = acscdf( NaN );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import acscdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acscdf@esm/index.mjs';
+import acscdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acscdf@v0.0.3-esm/index.mjs';
 
 var x = uniform( 100, 1.1, 5.1, {
     'dtype': 'float32'
